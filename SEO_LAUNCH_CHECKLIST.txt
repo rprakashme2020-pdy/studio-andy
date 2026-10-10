@@ -1,0 +1,16 @@
+STUDIO ANDY — SEO LAUNCH CHECKLIST
+
+Completed: unique title and meta description per page, social sharing text, WebPage structured data, robots directives, image alt text retained, lazy loading for non-logo images.
+
+BEFORE DEPLOYMENT:
+1. Confirm official live domain and HTTPS.
+2. Add a unique canonical URL and og:url to each page using the confirmed domain.
+3. Replace YOUR-DOMAIN in sitemap-template.xml and rename to sitemap.xml; add Sitemap: line in robots.txt.
+4. Confirm Studio Andy official business phone, email and address; update site and structured data if appropriate.
+5. Test contact form: currently opens the visitor email client, not a server-side submission.
+6. Verify mobile layout, navigation, scrolling services wheel and page speed in a real browser.
+7. Add a suitable 1200x630 social sharing image, use absolute URL in og:image and twitter:image.
+8. Set up Google Search Console and submit sitemap.
+9. Consider extracting large embedded images and serving optimized WebP/AVIF with caching for faster loading.
+
+No live domain or business details were invented. Rankings cannot be guaranteed.
